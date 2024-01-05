@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Takumi Ueda</h3>
+  <h2>Takumi Ueda</h2>
   Software Engineer
 </div>
 
